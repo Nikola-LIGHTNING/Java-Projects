@@ -3,9 +3,7 @@ package com.nikola.scooterfish;
 import android.graphics.Canvas;
 import android.view.SurfaceHolder;
 
-/**
- * Created by Nikola on 5/28/2016.
- */
+
 public class MainThread extends Thread {
 
     private int FPS = 30;
@@ -42,8 +40,8 @@ public class MainThread extends Thread {
                     this.gamePanel.draw(canvas);
                 }
             } catch(Exception e) {
-            }
-            finally {
+
+            } finally {
                 if(canvas!=null) {
                     try {
                         surfaceHolder.unlockCanvasAndPost(canvas);

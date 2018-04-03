@@ -5,9 +5,6 @@ import android.graphics.Canvas;
 
 import java.util.Random;
 
-/**
- * Created by Nikola on 7/2/2016.
- */
 public class Missile extends GameObject {
     private int score;
     private int speed;

@@ -2,9 +2,6 @@ package com.nikola.scooterfish;
 
 import android.graphics.Rect;
 
-/**
- * Created by Nikola on 6/23/2016.
- */
 public abstract class GameObject {
     protected int x;
     protected int y;

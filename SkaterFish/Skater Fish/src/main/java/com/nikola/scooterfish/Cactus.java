@@ -5,9 +5,7 @@ import android.graphics.Canvas;
 
 import java.util.Random;
 
-/**
- * Created by Nikola on 7/5/2016.
- */
+
 public class Cactus extends GameObject {
     private Animation animation = new Animation();
     private Bitmap spritesheet;

@@ -4,9 +4,6 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 
-/**
- * Created by Nikola on 6/26/2016.
- */
 public class Smokepuff extends GameObject {
     public int radius; //radius
     public Smokepuff(int x, int y) {

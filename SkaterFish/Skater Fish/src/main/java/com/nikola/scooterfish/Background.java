@@ -3,9 +3,7 @@ package com.nikola.scooterfish;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 
-/**
- * Created by Nikola on 6/11/2016.
- */
+
 public class Background {
 
     private Bitmap image;

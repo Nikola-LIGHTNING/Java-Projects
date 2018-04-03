@@ -3,9 +3,6 @@ package com.nikola.scooterfish;
 import android.graphics.Bitmap;
 import android.provider.Settings;
 
-/**
- * Created by Nikola on 6/23/2016.
- */
 public class Animation {
     private Bitmap[] frames;
     private int currentFrame;

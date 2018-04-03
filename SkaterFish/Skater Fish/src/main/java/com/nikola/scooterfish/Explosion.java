@@ -3,9 +3,6 @@ package com.nikola.scooterfish;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 
-/**
- * Created by Nikola on 7/6/2016.
- */
 public class Explosion {
     private int x;
     private int y;
